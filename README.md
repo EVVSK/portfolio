@@ -1,3 +1,3 @@
 # portfolio trial link
 
-https://evvsk.github.io/portfolio/#home
+https://evvsk.github.io/portfolio/
